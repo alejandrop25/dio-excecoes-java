@@ -1,2 +1,2 @@
-# dio-excessoes-java
- Desafio em Java sobre tratamento de excessões
+# dio-exceçoes-java
+ Desafio em Java sobre tratamento de exceções
